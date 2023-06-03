@@ -1,0 +1,199 @@
+.thSNo {
+    width: 65px;
+}
+
+.thCode {
+    width: 150px;
+}
+
+.thHeadLineCode {
+    width: 250px;
+}
+
+.thHeadDescription {
+    width: 250px;
+}
+
+.thDescriptioninKannada {
+    width: 250px
+}
+
+.thAction {
+    width: 300px;
+}
+
+.thHeadOfAccount {
+    width: 150px;
+}
+
+.thMajorHead {
+    width: 250px;
+}
+
+.thMinorHead {
+    width: 250px;
+}
+
+.thSubHead {
+    width: 250px;
+}
+
+.thParticulars {
+    width: 250px;
+}
+
+.thReceiptHeads {
+    width: 150px;
+}
+
+.thActuals {
+    width: 150px;
+}
+
+.thEstimate {
+    width: 150px;
+}
+
+.thActualupto31stDec {
+    width: 150px;
+}
+
+.thReceipts RemainingJantoMar {
+    width: 150px;
+}
+
+.thTotalReceipts {
+    width: 150px;
+}
+
+.thRevisedEstimate {
+    width: 150px;
+}
+
+.thEstimateforNextYear {
+    width: 150px;
+}
+
+.thReceiptHeads {
+    width: 150px;
+}
+
+.thEst {
+    width: 150px;
+}
+
+.thReceiptsRemaining {
+    width: 150px;
+}
+
+.thTotalReceipts {
+    width: 150px;
+}
+
+.thRevisedEst {
+    width: 150px;
+}
+
+.thBudgetEst {
+    width: 150px;
+}
+
+.thAccountNo {
+    width: 150px;
+}
+
+.thBankName {
+    width: 150px;
+}
+
+.thBranchName {
+    width: 150px;
+}
+
+.thIFSCCode {
+    width: 150px;
+}
+
+.thStatus {
+    width: 150px;
+}
+
+.labelbold {
+    font-weight: bold;
+}
+
+.fntsmall {
+    font-size: 10px;
+}
+
+.lblred {
+    color: red;
+}
+
+.labelSize {
+    margin-left: -10px;
+}
+
+.labelclass {
+    display: block;
+    padding: 8px 22px;
+    margin: 0 0 1px 0;
+    cursor: pointer;
+    background: #07294d;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    transition: ease .5s;
+}
+
+.labelclass:after {
+    content: "\25BC";
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-left: 25px;
+    margin-right: -0.5rem;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+/* Set padding to keep content from hitting the edges */
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+
+/*input,
+select,
+textarea {
+    max-width: 280px;
+}*/
+
+.formField {
+    padding-bottom: 10px;
+}
+
+th {
+    background-color: #07294d;
+    color: #fff;
+}
+
+.not-allow {
+    pointer-events: none;
+    background-color: #e9ecef;
+    opacity: 1;
+    cursor: not-allowed;
+}

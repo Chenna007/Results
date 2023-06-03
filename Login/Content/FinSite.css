@@ -1,0 +1,133 @@
+.thSNo {
+    width: 35px;
+}
+
+.thCode {
+    width: 100px;
+}
+
+.thHeadLineCode {
+    width: 120px;
+}
+
+.thHeadDescription {
+    width: 250px;
+}
+
+.thDescriptioninKannada {
+    width: 250px
+}
+
+.thAction {
+    width: 120px;
+}
+
+.thHeadOfAccount {
+    width: 150px;
+}
+
+.thMajorHead {
+    width: 250px;
+}
+
+.thMinorHead {
+    width: 250px;
+}
+
+.thSubHead {
+    width: 250px;
+}
+
+.thParticulars {
+    width: 250px;
+}
+
+.thReceiptHeads {
+    width: 150px;
+}
+
+.thActuals {
+    width: 150px;
+}
+
+.thEstimate {
+    width: 150px;
+}
+
+.thActualupto31stDec {
+    width: 150px;
+}
+
+.thReciepts RemainingJantoMar {
+    width: 150px;
+}
+
+.thTotalReciepts {
+    width: 150px;
+}
+
+.thRevisedEstimate {
+    width: 150px;
+}
+
+.thEstimateforNextYear {
+    width: 150px;
+}
+
+.thReceiptHeads {
+    width: 150px;
+}
+
+.thEst {
+    width: 150px;
+}
+
+.thReceiptsRemaining {
+    width: 150px;
+}
+
+.thTotalReceipts {
+    width: 150px;
+}
+
+.thRevisedEst {
+    width: 150px;
+}
+
+.thBudgetEst {
+    width: 150px;
+}
+
+.thAccountNo {
+    width: 150px;
+}
+
+.thBankName {
+    width: 150px;
+}
+
+.thBranchName {
+    width: 150px;
+}
+
+.thIFSCCode {
+    width: 150px;
+}
+
+.thStatus {
+    width: 150px;
+}
+
+/* Chrome, Safari, Edge, Opera */
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+
+input[type=number] {
+    -moz-appearance: textfield;
+}
